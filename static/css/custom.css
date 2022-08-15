@@ -1,3 +1,4 @@
-.noborder {
+.play-button {
   border: none;
+  cursor: pointer;
 }
