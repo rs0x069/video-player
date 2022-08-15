@@ -1,4 +1,8 @@
-.play-button {
+.button-play {
   border: none;
   cursor: pointer;
+}
+
+.buttons-background {
+  background-color: black;
 }
