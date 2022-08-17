@@ -1,6 +1,7 @@
 .player {
   width: 800px; 
   height: 600px;
+  box-shadow: -5px -5px 5px rgba(0,0,0,.4);
 }
 
 .player .screen {
