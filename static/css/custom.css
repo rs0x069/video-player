@@ -1,10 +1,20 @@
-.player-button {
+.player {
+  width: 800px; 
+  height: 600px;
+}
+
+.player .screen {
+  width: 100%; 
+  height: 100%;
+}
+
+.player .bottom-controls {
+  background-color: black;
+}
+
+.player .player-button {
   border: none;
   cursor: pointer;
   color: white;
   background: transparent;
-}
-
-.player-buttons-wrapper {
-  background-color: black;
 }
