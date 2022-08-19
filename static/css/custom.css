@@ -16,6 +16,9 @@
   background-color: black;
   flex-grow: 0;
   flex-shrink: 0;
+  
+  display: flex;
+  align-items: center;
 }
 
 .player .player-button {
@@ -23,8 +26,22 @@
   cursor: pointer;
   color: white;
   background: transparent;
-  font-size: 30px;
-  margin: 2px 5px;
+  font-size: 24px;
+  margin: 2px 3px;
   height: 35px;
-  width: 30px;
+  width: 35px;
+}
+
+.player .time {
+  color: white;
+  font-size: 18px;
+}
+
+.player .progress-slider {
+  background-color: red; 
+  color: white;
+}
+
+.player .aligner {
+  flex-grow: 1;
 }
