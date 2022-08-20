@@ -2,6 +2,8 @@
 
 Вёрстка видеоплеера сделана в учебных целях.
 
+Демо вёрски доступно по [ссылке](https://rs0x069.github.io/video-player/).
+
 ![screenshot](https://raw.githubusercontent.com/rs0x069/video-player/main/.github/images/screenshot.png)
 
 В проекте изпользуется библиотека [video-player-jslib](https://github.com/devmanorg/video-player-jslib).
