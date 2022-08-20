@@ -2,6 +2,8 @@
 
 Вёрстка видеоплеера сделана в учебных целях.
 
+К видео добавлены кнопки управления, время продолжительности и полоса прокрутки. Проигрываемое видео заранее задано, видео можно поменять.
+
 Демо вёрски доступно по [ссылке](https://rs0x069.github.io/video-player/).
 
 ![screenshot](https://raw.githubusercontent.com/rs0x069/video-player/main/.github/images/screenshot.png)
