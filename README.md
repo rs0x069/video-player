@@ -6,7 +6,7 @@
 
 В проекте изпользуется библиотека [video-player-jslib](https://github.com/devmanorg/video-player-jslib).
 
-Видео играет по [этой ссылке](ttps://dvmn.org/media/filer_public/78/db/78db3456-3fd3-4504-9ed9-d2d1fd843c0b/highest_peak.mp4).
+Видео играет по [этой ссылке](https://dvmn.org/media/filer_public/78/db/78db3456-3fd3-4504-9ed9-d2d1fd843c0b/highest_peak.mp4).
 
 Если хочется выбрать другое видео, с помощью аргумента `src` плееру можно указать, какое видео проигрывать (ссылки обязаны заканчиваться расширением файла):
 ```html
