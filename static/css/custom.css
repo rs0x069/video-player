@@ -32,6 +32,13 @@
   width: 35px;
 }
 
+.player .viewing-panel {
+  flex-grow: 1;
+
+  display: flex;
+  justify-content: space-around;
+}
+
 .player .time {
   color: white;
   font-size: 18px;
@@ -41,8 +48,4 @@
   background-color: red; 
   color: white;
   cursor: pointer;
-}
-
-.player .aligner {
-  flex-grow: 1;
 }
