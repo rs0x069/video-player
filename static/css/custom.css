@@ -26,10 +26,10 @@
   cursor: pointer;
   color: white;
   background: transparent;
-  font-size: 24px;
-  margin: 2px 3px;
-  height: 35px;
-  width: 35px;
+  font-size: 20px;
+  margin: 9px 3px;
+  /* height: 30px; */
+  /* width: 35px; */
 }
 
 .player .viewing-panel {
