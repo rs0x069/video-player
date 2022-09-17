@@ -79,6 +79,18 @@
   box-shadow: none;
 
   margin-top: -2px;
-  margin-left: -4px;
+  margin-left: -8px;
   vertical-align: middle;
+
+  opacity: 0;
+  transition-property: all;
+  transition-duration: 300ms;
+  transition-timing-function: ease-out, ease-in;
+}
+
+.player .progress:hover .slider {
+  opacity: 1;
+  transition-property: all;
+  transition-duration: 300ms;
+  transition-timing-function: ease-out, ease-in;
 }
