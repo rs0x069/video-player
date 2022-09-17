@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Roboto;
+  src: url(../fonts/Roboto/Roboto-Regular.ttf);
+}
+
 .player {
   width: 800px; 
   height: 600px;
@@ -36,12 +41,14 @@
   flex-grow: 1;
 
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
-.player .time {
+.player .viewing-panel {
   color: white;
-  font-size: 18px;
+  /* font-size: 18px; */
+
+  font-family: 'Roboto', sans-serif;
 }
 
 .player .progress-slider {
