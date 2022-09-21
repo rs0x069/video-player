@@ -12,7 +12,6 @@
 }
 
 .player .screen {
-  flex-basis: 300px;
   flex-grow: 1;
   flex-shrink: 1;
 }
@@ -32,7 +31,8 @@
   color: white;
   background: transparent;
   font-size: 20px;
-  margin: 9px 3px;
+  height: 43px;
+  width: 35px;
 }
 
 .player .viewing-panel {
@@ -46,6 +46,8 @@
   color: white;
 
   font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 1;
 }
 
 .player .progress {
